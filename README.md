@@ -29,6 +29,13 @@ $ git clone https://github.com/yodaos-project/ShadowNode.git
 $ cd ShadowNode
 ```
 
+##### Install tool & lib
+```sh
+$ apt-get install cmake
+$ apt-get install dbus
+$ apt-get install libdbus-glib-1-dev
+```
+
 ##### Build ShadowNode
 ```sh
 $ npm run build
